@@ -1,10 +1,8 @@
-package Try;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//developer: ts balcı
 
 public class Main extends JFrame implements ActionListener{
 
